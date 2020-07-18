@@ -1,0 +1,66 @@
+{
+  "name": "xclap",
+  "version": "0.2.51",
+  "description": "npm run enhanced - run them concurrently or serially, and more",
+  "main": "lib/index.js",
+  "scripts": {},
+  "bin": {
+    "clap": "bin/clap.js",
+    "xclap": "bin/clap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/electrode-io/xclap.git"
+  },
+  "files": [
+    "lib",
+    "bin",
+    "cli"
+  ],
+  "keywords": [
+    "npm",
+    "commandline",
+    "scripts",
+    "clap",
+    "build",
+    "tool",
+    "npm-scripts",
+    "npm scripts",
+    "shell",
+    "shell scripts",
+    "flow",
+    "flow control",
+    "control",
+    "bash",
+    "zsh",
+    "make",
+    "xclap",
+    "javascript",
+    "task",
+    "concurrent",
+    "parallel",
+    "serial",
+    "series",
+    "tasks",
+    "execution",
+    "executor",
+    "tool",
+    "system",
+    "run",
+    "cli",
+    "stream",
+    "streaming"
+  ],
+  "author": "Walmart GTP.js Platform",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/electrode-io/xclap/issues"
+  },
+  "homepage": "https://github.com/electrode-io/xclap",
+  "dependencies": {
+    "@xarc/run": "^1.0.0"
+  },
+  "prettier": {
+    "printWidth": 100
+  }
+}
