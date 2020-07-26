@@ -1,6 +1,6 @@
 {
   "name": "xclap",
-  "version": "0.2.51",
+  "version": "0.2.52",
   "description": "npm run enhanced - run them concurrently or serially, and more",
   "main": "lib/index.js",
   "scripts": {},
