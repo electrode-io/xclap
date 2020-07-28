@@ -58,7 +58,7 @@
   },
   "homepage": "https://github.com/electrode-io/xclap",
   "dependencies": {
-    "@xarc/run": "^1.0.0"
+    "@xarc/run": "^1.0.2"
   },
   "prettier": {
     "printWidth": 100
